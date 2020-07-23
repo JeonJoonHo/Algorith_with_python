@@ -22,3 +22,4 @@
 - [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) : [43162](43162.py)
 - [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059?language=python3) : [60059](60059.py)
 - [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884?language=python3#) : [42884](42884.py)
+- [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105?language=python3) : [43105](43105.py)
